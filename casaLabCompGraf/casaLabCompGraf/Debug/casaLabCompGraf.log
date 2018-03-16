@@ -1,5 +1,2 @@
-﻿  mainTrabCasa04.cpp
-c:\users\jepf_\documents\githubrepositories\jepf_casa\casalabcompgraf\casalabcompgraf\maintrabcasa04.cpp(131): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-c:\users\jepf_\documents\githubrepositories\jepf_casa\casalabcompgraf\casalabcompgraf\maintrabcasa04.cpp(132): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-c:\users\jepf_\documents\githubrepositories\jepf_casa\casalabcompgraf\casalabcompgraf\maintrabcasa04.cpp(135): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+﻿  mainTrabCasa05.cpp
   casaLabCompGraf.vcxproj -> C:\Users\jepf_\Documents\GitHubRepositories\JEPF_Casa\casaLabCompGraf\Debug\casaLabCompGraf.exe
